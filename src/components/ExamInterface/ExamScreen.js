@@ -30,9 +30,9 @@ function ExamScreen() {
     if (questionsData && questionsData.tests) {
       const test = questionsData.tests.find(t => t.id === testId);
       if (test) {
-        // Shuffle questions for full-mock tests to ensure different question order each time
+        // Shuffle questions for full-mock and hard-mock tests to ensure different question order each time
         let testQuestions = test.questions || [];
-        if (testId.startsWith('full-mock')) {
+        if (testId.startsWith('full-mock') || testId.startsWith('hard-mock')) {
           // Fisher-Yates shuffle algorithm
           testQuestions = [...testQuestions];
           for (let i = testQuestions.length - 1; i > 0; i--) {

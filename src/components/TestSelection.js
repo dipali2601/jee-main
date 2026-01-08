@@ -20,7 +20,7 @@ function TestSelection() {
       questionsData.tests.forEach(test => {
         // Determine category based on test id
         let category = 'full-length';
-        let difficulty = 'medium';
+        let difficulty = test.difficulty ? test.difficulty.toLowerCase() : 'medium';
         
         if (test.id.startsWith('pyq-')) {
           category = 'pyq';
@@ -30,8 +30,10 @@ function TestSelection() {
           category = 'chapter';
         }
         
-        // Get question count
+        // Get question count - for full-length mocks, always show 75 questions even if bank is larger
         const questionCount = test.questions ? test.questions.length : 75;
+        const displayQuestions = (category === 'full-length' && questionCount > 75) ? 75 : questionCount;
+        const displayMarks = displayQuestions * 4;
         
         tests.push({
           id: test.id,
@@ -39,8 +41,8 @@ function TestSelection() {
           category: category,
           difficulty: difficulty,
           duration: 180,
-          questions: questionCount,
-          marks: questionCount * 4,
+          questions: displayQuestions,
+          marks: displayMarks,
           sections: ['Physics', 'Chemistry', 'Mathematics'],
           attempts: 0,
           description: test.year ? `Actual questions from JEE Main ${test.year}` : 'Complete simulation of JEE Main exam with latest pattern',
