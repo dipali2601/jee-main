@@ -39,6 +39,12 @@ function ExamScreen() {
             const j = Math.floor(Math.random() * (i + 1));
             [testQuestions[i], testQuestions[j]] = [testQuestions[j], testQuestions[i]];
           }
+          
+          // Select only 75 questions (300 marks = 75 × 4) from the shuffled question bank
+          // This ensures each test has different questions from the larger pool
+          if (testQuestions.length > 75) {
+            testQuestions = testQuestions.slice(0, 75);
+          }
         }
         setQuestions(testQuestions);
         
