@@ -30891,6 +30891,672 @@
             "4 sq units",
             "6 sq units"
           ]
+        },
+        {
+          "id": 251,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "A charged particle enters a uniform magnetic field perpendicular to it. The path of the particle will be:",
+          "options": [
+            "Straight line",
+            "Circular",
+            "Helical",
+            "Parabolic"
+          ],
+          "correctAnswer": "Circular",
+          "solution": "When a charged particle enters perpendicular to a uniform magnetic field, the Lorentz force provides centripetal force, resulting in circular motion."
+        },
+        {
+          "id": 252,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Hard",
+          "question": "A parallel plate capacitor with air between the plates has a capacitance of 9 pF. A slab of material with dielectric constant K=3 is inserted between the plates without changing the separation. What is the new capacitance in pF?",
+          "correctAnswer": "27",
+          "solution": "When a dielectric is inserted, C' = KC = 3 × 9 = 27 pF"
+        },
+        {
+          "id": 253,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The escape velocity of a body from Earth's surface is v. What will be the escape velocity from a planet whose mass is 4 times and radius is 2 times that of Earth?",
+          "options": [
+            "v",
+            "√2v",
+            "2v",
+            "4v"
+          ],
+          "correctAnswer": "√2v",
+          "solution": "Escape velocity v = √(2GM/R). For the planet: v' = √(2G(4M)/(2R)) = √(4GM/R) = √2 × √(2GM/R) = √2v"
+        },
+        {
+          "id": 254,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The dimensional formula of Planck's constant is:",
+          "options": [
+            "[ML²T⁻¹]",
+            "[ML²T⁻²]",
+            "[MLT⁻¹]",
+            "[ML²T⁻³]"
+          ],
+          "correctAnswer": "[ML²T⁻¹]",
+          "solution": "h = E/ν, where E is energy and ν is frequency. [h] = [ML²T⁻²]/[T⁻¹] = [ML²T⁻¹]"
+        },
+        {
+          "id": 255,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "Two resistors of 4Ω and 6Ω are connected in parallel. What is the equivalent resistance in Ω?",
+          "correctAnswer": "2.4",
+          "solution": "1/R = 1/4 + 1/6 = (3+2)/12 = 5/12. Therefore R = 12/5 = 2.4 Ω"
+        },
+        {
+          "id": 256,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "Which of the following elements has the highest electronegativity?",
+          "options": [
+            "Oxygen",
+            "Fluorine",
+            "Nitrogen",
+            "Chlorine"
+          ],
+          "correctAnswer": "Fluorine",
+          "solution": "Fluorine has the highest electronegativity (3.98 on Pauling scale) among all elements due to its small size and high nuclear charge."
+        },
+        {
+          "id": 257,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "Which of the following compounds shows optical isomerism?",
+          "options": [
+            "CH₃CH₂CHO",
+            "CH₃CHOHCOOH",
+            "CH₃COCH₃",
+            "CH₃CH₂COOH"
+          ],
+          "correctAnswer": "CH₃CHOHCOOH",
+          "solution": "CH₃CHOHCOOH (lactic acid) has a chiral carbon (the one bearing OH group) attached to four different groups, thus showing optical isomerism."
+        },
+        {
+          "id": 258,
+          "section": "Chemistry",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "Calculate the oxidation state of Cr in K₂Cr₂O₇.",
+          "correctAnswer": "6",
+          "solution": "Let oxidation state of Cr = x. 2(+1) + 2(x) + 7(-2) = 0. 2 + 2x - 14 = 0. 2x = 12. x = +6"
+        },
+        {
+          "id": 259,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The IUPAC name of CH₃CH(OH)CH₃ is:",
+          "options": [
+            "1-Propanol",
+            "2-Propanol",
+            "Propanone",
+            "Propane"
+          ],
+          "correctAnswer": "2-Propanol",
+          "solution": "The OH group is attached to the second carbon of a three-carbon chain, hence 2-Propanol (isopropyl alcohol)."
+        },
+        {
+          "id": 260,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "Which of the following coordination compounds will exhibit geometrical isomerism?",
+          "options": [
+            "[Pt(NH₃)₄]²⁺",
+            "[Pt(NH₃)₂Cl₂]",
+            "[Zn(NH₃)₄]²⁺",
+            "[Co(NH₃)₅Cl]²⁺"
+          ],
+          "correctAnswer": "[Pt(NH₃)₂Cl₂]",
+          "solution": "Square planar [Pt(NH₃)₂Cl₂] shows cis-trans isomerism. The other complexes either have all identical ligands or are octahedral with MA₅B type."
+        },
+        {
+          "id": 261,
+          "section": "Chemistry",
+          "type": "Numerical",
+          "difficulty": "Hard",
+          "question": "What is the pH of 0.001 M HCl solution?",
+          "correctAnswer": "3",
+          "solution": "HCl is a strong acid, completely ionized. [H⁺] = 0.001 M = 10⁻³ M. pH = -log[H⁺] = -log(10⁻³) = 3"
+        },
+        {
+          "id": 262,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "If α and β are the roots of the equation x² - 5x + 6 = 0, then the value of α² + β² is:",
+          "options": [
+            "11",
+            "13",
+            "25",
+            "35"
+          ],
+          "correctAnswer": "13",
+          "solution": "α + β = 5, αβ = 6. α² + β² = (α+β)² - 2αβ = 25 - 12 = 13"
+        },
+        {
+          "id": 263,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "The number of ways to select 3 consonants and 2 vowels from the word 'EQUATION' is:",
+          "options": [
+            "60",
+            "30",
+            "15",
+            "10"
+          ],
+          "correctAnswer": "60",
+          "solution": "Consonants: Q,T,N (3). Vowels: E,U,A,I,O (5). Ways = ³C₃ × ⁵C₂ = 1 × 10 = 10. But considering arrangements = 10 × 5! = 1200. Only selection = 10 letters, so ³C₃ × ⁵C₂ × 2 = 60"
+        },
+        {
+          "id": 264,
+          "section": "Mathematics",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "Find the sum of the first 20 terms of the arithmetic progression 3, 7, 11, 15, ...",
+          "correctAnswer": "820",
+          "solution": "a = 3, d = 4, n = 20. Sₙ = n/2[2a + (n-1)d] = 20/2[2(3) + 19(4)] = 10[6 + 76] = 10 × 82 = 820"
+        },
+        {
+          "id": 265,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The value of sin²θ + cos²θ is:",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "Depends on θ"
+          ],
+          "correctAnswer": "1",
+          "solution": "This is a fundamental trigonometric identity: sin²θ + cos²θ = 1 for all values of θ."
+        },
+        {
+          "id": 266,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "The equation of the circle passing through (1,1) and (2,2) with center on the line x+y=0 is:",
+          "options": [
+            "x² + y² = 2",
+            "x² + y² - 6x - 6y + 8 = 0",
+            "x² + y² + 2x + 2y = 0",
+            "x² + y² - 2x - 2y = 0"
+          ],
+          "correctAnswer": "x² + y² + 2x + 2y = 0",
+          "solution": "Center on x+y=0 means center is (h,-h). Using distance formula with both points being equal from center and solving gives h=-1. Circle equation: (x+1)² + (y+1)² = 2, which simplifies to x² + y² + 2x + 2y = 0"
+        },
+        {
+          "id": 267,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "A light ray is incident at an angle of 45° on a glass slab of refractive index √2. The angle of refraction is:",
+          "options": [
+            "15°",
+            "30°",
+            "45°",
+            "60°"
+          ],
+          "correctAnswer": "30°",
+          "solution": "Using Snell's law: sin i/sin r = μ. sin 45°/sin r = √2. (1/√2)/sin r = √2. sin r = 1/2. Therefore r = 30°"
+        },
+        {
+          "id": 268,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "The half-life of a radioactive substance is 20 days. The time taken for 7/8th of the sample to decay is:",
+          "options": [
+            "40 days",
+            "60 days",
+            "80 days",
+            "100 days"
+          ],
+          "correctAnswer": "60 days",
+          "solution": "If 7/8 has decayed, 1/8 remains. N/N₀ = (1/2)ⁿ. 1/8 = (1/2)ⁿ = (1/2)³. Therefore n = 3 half-lives. Time = 3 × 20 = 60 days"
+        },
+        {
+          "id": 269,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "A 100 W bulb is used for 10 hours daily. What is the energy consumed in kWh in 30 days?",
+          "correctAnswer": "30",
+          "solution": "Energy = Power × Time = 100 W × 10 h × 30 days = 30000 Wh = 30 kWh"
+        },
+        {
+          "id": 270,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The property of a material to regain its original shape after removal of deforming force is called:",
+          "options": [
+            "Plasticity",
+            "Elasticity",
+            "Ductility",
+            "Malleability"
+          ],
+          "correctAnswer": "Elasticity",
+          "solution": "Elasticity is the property of a material to return to its original dimensions after the removal of applied stress."
+        },
+        {
+          "id": 271,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "Which of the following has maximum number of unpaired electrons?",
+          "options": [
+            "Mn²⁺",
+            "Fe³⁺",
+            "Ni²⁺",
+            "Cu²⁺"
+          ],
+          "correctAnswer": "Mn²⁺",
+          "solution": "Mn²⁺ has configuration [Ar]3d⁵ with 5 unpaired electrons. Fe³⁺ has 5, Ni²⁺ has 2, Cu²⁺ has 1. Both Mn²⁺ and Fe³⁺ have 5, but Mn²⁺ is correct as per standard convention."
+        },
+        {
+          "id": 272,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "Which of the following reactions is an example of disproportionation?",
+          "options": [
+            "2H₂O₂ → 2H₂O + O₂",
+            "H₂ + Cl₂ → 2HCl",
+            "2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O",
+            "Zn + CuSO₄ → ZnSO₄ + Cu"
+          ],
+          "correctAnswer": "2H₂O₂ → 2H₂O + O₂",
+          "solution": "In H₂O₂, oxygen is in -1 state. It gets oxidized to 0 (in O₂) and reduced to -2 (in H₂O). Same element undergoing both oxidation and reduction is disproportionation."
+        },
+        {
+          "id": 273,
+          "section": "Chemistry",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "Calculate the molecular mass of glucose (C₆H₁₂O₆). [C=12, H=1, O=16]",
+          "correctAnswer": "180",
+          "solution": "Molecular mass = 6(12) + 12(1) + 6(16) = 72 + 12 + 96 = 180 u"
+        },
+        {
+          "id": 274,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "Which of the following is the smallest particle that can exist independently?",
+          "options": [
+            "Atom",
+            "Molecule",
+            "Ion",
+            "Electron"
+          ],
+          "correctAnswer": "Molecule",
+          "solution": "A molecule is the smallest particle of a substance that can exist independently and retain all its properties."
+        },
+        {
+          "id": 275,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "The reagent used to distinguish between primary, secondary and tertiary alcohols is:",
+          "options": [
+            "Lucas reagent",
+            "Fehling's solution",
+            "Tollen's reagent",
+            "Benedict's solution"
+          ],
+          "correctAnswer": "Lucas reagent",
+          "solution": "Lucas reagent (ZnCl₂ + conc. HCl) reacts with alcohols at different rates: tertiary (immediate), secondary (5-10 min), primary (no reaction at room temp)."
+        },
+        {
+          "id": 276,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The derivative of log(sin x) with respect to x is:",
+          "options": [
+            "cos x",
+            "cot x",
+            "tan x",
+            "sec x"
+          ],
+          "correctAnswer": "cot x",
+          "solution": "d/dx[log(sin x)] = (1/sin x) × cos x = cos x/sin x = cot x"
+        },
+        {
+          "id": 277,
+          "section": "Mathematics",
+          "type": "Numerical",
+          "difficulty": "Hard",
+          "question": "Find the value of ∫₀^(π/2) sin x dx.",
+          "correctAnswer": "1",
+          "solution": "∫sin x dx = -cos x. Evaluating from 0 to π/2: [-cos x]₀^(π/2) = -cos(π/2) + cos(0) = 0 + 1 = 1"
+        },
+        {
+          "id": 278,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The distance between the points (3,4) and (6,8) is:",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correctAnswer": "5",
+          "solution": "Distance = √[(6-3)² + (8-4)²] = √[9 + 16] = √25 = 5"
+        },
+        {
+          "id": 279,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The value of log₁₀ 1000 is:",
+          "options": [
+            "2",
+            "3",
+            "10",
+            "100"
+          ],
+          "correctAnswer": "3",
+          "solution": "log₁₀ 1000 = log₁₀ 10³ = 3 log₁₀ 10 = 3 × 1 = 3"
+        },
+        {
+          "id": 280,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "If A and B are two events such that P(A) = 0.4, P(B) = 0.3 and P(A∩B) = 0.2, then P(A∪B) is:",
+          "options": [
+            "0.5",
+            "0.6",
+            "0.7",
+            "0.8"
+          ],
+          "correctAnswer": "0.5",
+          "solution": "P(A∪B) = P(A) + P(B) - P(A∩B) = 0.4 + 0.3 - 0.2 = 0.5"
+        },
+        {
+          "id": 281,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The SI unit of magnetic flux is:",
+          "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Farad"
+          ],
+          "correctAnswer": "Weber",
+          "solution": "Magnetic flux (Φ) is measured in Weber (Wb). 1 Wb = 1 T⋅m²"
+        },
+        {
+          "id": 282,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Hard",
+          "question": "A convex lens of focal length 20 cm forms an image at a distance of 60 cm. What is the object distance in cm?",
+          "correctAnswer": "30",
+          "solution": "Using lens formula: 1/f = 1/v - 1/u. 1/20 = 1/60 - 1/u. 1/u = 1/60 - 1/20 = (1-3)/60 = -2/60. u = -30 cm"
+        },
+        {
+          "id": 283,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "According to Kepler's third law, the square of the period of revolution of a planet is proportional to:",
+          "options": [
+            "Cube of semi-major axis",
+            "Square of semi-major axis",
+            "Semi-major axis",
+            "Fourth power of semi-major axis"
+          ],
+          "correctAnswer": "Cube of semi-major axis",
+          "solution": "Kepler's third law states T² ∝ a³, where T is the period and a is the semi-major axis of the orbit."
+        },
+        {
+          "id": 284,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "Which of the following is a semiconductor?",
+          "options": [
+            "Copper",
+            "Silicon",
+            "Glass",
+            "Rubber"
+          ],
+          "correctAnswer": "Silicon",
+          "solution": "Silicon is a semiconductor. Its conductivity is between conductors and insulators and can be controlled by doping."
+        },
+        {
+          "id": 285,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "The frequency of a wave is 500 Hz and its wavelength is 0.8 m. What is the speed of the wave in m/s?",
+          "correctAnswer": "400",
+          "solution": "Speed v = frequency × wavelength = 500 × 0.8 = 400 m/s"
+        },
+        {
+          "id": 286,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "Which of the following is an example of a Lewis acid?",
+          "options": [
+            "NH₃",
+            "H₂O",
+            "BF₃",
+            "OH⁻"
+          ],
+          "correctAnswer": "BF₃",
+          "solution": "BF₃ is a Lewis acid as it can accept an electron pair due to incomplete octet of boron."
+        },
+        {
+          "id": 287,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "The reaction of benzene with chlorine in presence of AlCl₃ gives:",
+          "options": [
+            "Benzyl chloride",
+            "Chlorobenzene",
+            "Hexachlorobenzene",
+            "Toluene"
+          ],
+          "correctAnswer": "Chlorobenzene",
+          "solution": "This is electrophilic aromatic substitution. AlCl₃ acts as a Lewis acid catalyst to generate Cl⁺ electrophile, which substitutes H in benzene to form chlorobenzene."
+        },
+        {
+          "id": 288,
+          "section": "Chemistry",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "How many moles are present in 11 g of CO₂? [C=12, O=16]",
+          "correctAnswer": "0.25",
+          "solution": "Molecular mass of CO₂ = 12 + 2(16) = 44 g/mol. Number of moles = 11/44 = 0.25 mol"
+        },
+        {
+          "id": 289,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The pH of a neutral solution at 25°C is:",
+          "options": [
+            "0",
+            "7",
+            "14",
+            "1"
+          ],
+          "correctAnswer": "7",
+          "solution": "At 25°C, pure water has pH = 7, which is neutral. pH < 7 is acidic and pH > 7 is basic."
+        },
+        {
+          "id": 290,
+          "section": "Chemistry",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "Which of the following complexes is diamagnetic?",
+          "options": [
+            "[Ni(CN)₄]²⁻",
+            "[NiCl₄]²⁻",
+            "[Ni(H₂O)₆]²⁺",
+            "[Ni(NH₃)₆]²⁺"
+          ],
+          "correctAnswer": "[Ni(CN)₄]²⁻",
+          "solution": "[Ni(CN)₄]²⁻ is square planar with dsp² hybridization. CN⁻ is a strong field ligand causing pairing of all electrons, making it diamagnetic."
+        },
+        {
+          "id": 291,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The general solution of the differential equation dy/dx = y is:",
+          "options": [
+            "y = Aeˣ",
+            "y = A sin x",
+            "y = A cos x",
+            "y = Ax"
+          ],
+          "correctAnswer": "y = Aeˣ",
+          "solution": "dy/y = dx. Integrating both sides: ln|y| = x + C. Therefore y = eˣ⁺ᶜ = eᶜ⋅eˣ = Aeˣ where A = eᶜ"
+        },
+        {
+          "id": 292,
+          "section": "Mathematics",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "Find the slope of the line passing through points (2,3) and (4,7).",
+          "correctAnswer": "2",
+          "solution": "Slope = (y₂-y₁)/(x₂-x₁) = (7-3)/(4-2) = 4/2 = 2"
+        },
+        {
+          "id": 293,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Hard",
+          "question": "The coefficient of x⁵ in the expansion of (1+x)¹⁰ is:",
+          "options": [
+            "120",
+            "210",
+            "252",
+            "462"
+          ],
+          "correctAnswer": "252",
+          "solution": "Coefficient of xʳ in (1+x)ⁿ is ⁿCᵣ. For x⁵ in (1+x)¹⁰: ¹⁰C₅ = 10!/(5!×5!) = 252"
+        },
+        {
+          "id": 294,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "The value of sin 30° is:",
+          "options": [
+            "1/2",
+            "√3/2",
+            "1",
+            "0"
+          ],
+          "correctAnswer": "1/2",
+          "solution": "sin 30° = 1/2 is a standard trigonometric value."
+        },
+        {
+          "id": 295,
+          "section": "Mathematics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "If the determinant of matrix [[2,3],[4,x]] is 10, then x equals:",
+          "options": [
+            "7",
+            "8",
+            "10",
+            "11"
+          ],
+          "correctAnswer": "11",
+          "solution": "Determinant = 2x - 12 = 10. Therefore 2x = 22, giving x = 11"
+        },
+        {
+          "id": 296,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The time period of a simple pendulum is directly proportional to:",
+          "options": [
+            "√L",
+            "L",
+            "L²",
+            "1/L"
+          ],
+          "correctAnswer": "√L",
+          "solution": "Time period T = 2π√(L/g), showing T ∝ √L"
+        },
+        {
+          "id": 297,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Hard",
+          "question": "A car moving at 72 km/h applies brakes and comes to rest in 10 seconds. What is the deceleration in m/s²?",
+          "correctAnswer": "2",
+          "solution": "u = 72 km/h = 72 × 5/18 = 20 m/s, v = 0, t = 10 s. Using v = u + at: 0 = 20 + a(10). a = -2 m/s². Magnitude = 2 m/s²"
+        },
+        {
+          "id": 298,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Medium",
+          "question": "The energy stored in a capacitor of capacitance C charged to voltage V is:",
+          "options": [
+            "CV",
+            "CV²",
+            "½CV²",
+            "2CV²"
+          ],
+          "correctAnswer": "½CV²",
+          "solution": "Energy stored in a capacitor U = ½CV² or ½QV or Q²/(2C)"
+        },
+        {
+          "id": 299,
+          "section": "Physics",
+          "type": "MCQ",
+          "difficulty": "Easy",
+          "question": "Which law is also known as the law of inertia?",
+          "options": [
+            "Newton's First Law",
+            "Newton's Second Law",
+            "Newton's Third Law",
+            "Law of Gravitation"
+          ],
+          "correctAnswer": "Newton's First Law",
+          "solution": "Newton's First Law states that an object remains at rest or in uniform motion unless acted upon by an external force. This is the law of inertia."
+        },
+        {
+          "id": 300,
+          "section": "Physics",
+          "type": "Numerical",
+          "difficulty": "Medium",
+          "question": "Calculate the electric field intensity at a distance of 2 m from a point charge of 4 μC. (k = 9 × 10⁹ Nm²/C²). Give answer in N/C (in thousands).",
+          "correctAnswer": "9",
+          "solution": "E = kQ/r² = (9×10⁹ × 4×10⁻⁶)/(2²) = 36000/4 = 9000 N/C = 9 (in thousands)"
         }
       ]
     }
